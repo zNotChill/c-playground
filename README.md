@@ -1,2 +1,2 @@
-# c playground
- C playground
+# c-playground
+ c playground
